@@ -965,6 +965,8 @@ class TargetSeeder extends Seeder
         'https://zhdalians.ru',
         'https://zhdbilet.com',
         'https://zws.moscow',
+        'https://solar-staff.com',
+        'https://perfluence.net',
     ];
 
     /**
